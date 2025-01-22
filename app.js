@@ -9,7 +9,7 @@ function modoClaro(){
         header.classList.remove('header-escuro');
         header.classList.add('header-claro');
         botao.innerHTML = 'Modo Escuro';
-        botao.style.color = 'black';
+        botao.style.color = 'gray';
     }else{
         body.classList.remove('body-claro');
         body.classList.add('body-escuro');

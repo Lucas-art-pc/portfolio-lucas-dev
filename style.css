@@ -32,6 +32,7 @@ header{
 
 .btn {
     display: inline-block;
+    margin-right: 50px;
     padding: 10px 20px;
     font-family: 'Inter', sans-serif;
     font-size: 16px;
@@ -178,6 +179,10 @@ a{
     .description{
         width: 75%;
         height: 70%;
+    }
+
+    .btn{
+        margin-right: 15px;
     }
 
     main {
